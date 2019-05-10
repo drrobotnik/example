@@ -14,7 +14,7 @@ use Roots\WPConfig\Config;
 $root_dir = dirname(__DIR__);
 
 /** @var string Document Root */
-$webroot_dir = $root_dir . '/html';
+$webroot_dir = $root_dir . '/web';
 
 /**
  * Expose global env() function from oscarotero/env
